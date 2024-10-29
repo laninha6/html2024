@@ -7,12 +7,12 @@ justify-content: center;
 }
 
 body{
-    background-color: rgb(255, 0, 149);
-    color: brown;
+    background-color: rgba(255, 0, 149, 0.473);
+    color: rgba(165, 42, 42, 0.733);
 }
 
 section{
-background-color: aquamarine;
+background-color: rgb(196, 154, 231);
 margin: 40px;
 display: flex;
 
