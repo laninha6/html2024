@@ -1,14 +1,22 @@
 header{
-margin: ; 40px;
-background-color; 
-text-size-adjust: 85px;
+margin: 40px;
+background-color: brown; 
+text-size-adjust:85px;
 justify-content: center;
 
 }
-
-
 
 body{
     background-color: rgb(255, 0, 149);
     color: brown;
 }
+
+section{
+background-color: aquamarine;
+margin: 40px;
+display: flex;
+
+
+
+}
+
