@@ -14,6 +14,24 @@ body{
 }
 
 section{
+    background-color: black;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+.primeira chamada{
+    margin-right: 5%;
+}
+.sequencia de vídeos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+
+
+section{
 background-color: rgb(196, 154, 231);
 margin: 40px;
 display: flex;
